@@ -21,5 +21,3 @@ To get started with this project, you will need to have the following installed 
 
 * JDK 17+
 * Maven 3+
-
-  This Project belongs to Shubh Mittal 
